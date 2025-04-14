@@ -14,7 +14,12 @@ Telegram: [@makita_QA](https://t.me/makita_QA)
 Linkedin: 
 
 
-📋 Тест-анализ и документация
+## 📋 Тест-анализ и документация
+| **Навык**                     | **Инструменты**                          | **Примеры артефактов**                  |
+|---------------------------|--------------------------------------|--------------------------------------|
+| ✅Составление чек-листов    | Excel,  Sitechco        | [Чек-лист для приложения "Леонардо"](https://drive.google.com/drive/folders/12j2p3GpIYnKEmEXIlJIouhQBD7oTNINh?usp=sharing) |
+| ✅Написание тест-кейсов     |    Excel,  Sitechco                | [Тест-кейсы сайта кофейни](https://docs.google.com/spreadsheets/d/1DQZUFbuZb7MKMuM3zhn4fUOyjhNoR8SjCwTwyDWpojE/edit?usp=sharing)             |
+| ✅Составление баг-репортов  | Jira, YouTrack, Redmine              | [Пример бага](https://docs.google.com/document/d/17uHe1YmQGPVyzLLiEXgIxRe_w03_BbPQc_KfGiDzJUo/edit?usp=sharing)         |
 
 ## 🖥 Веб-тестирование:
 ![DevTools](https://shields.microej.com/badge/-DevTools-000000?style=for-the-badge&logo=google-chrome&logoColor=5b5b5b)
