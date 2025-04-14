@@ -16,7 +16,10 @@ Linkedin:
 
 📋 Тест-анализ и документация
 
-🖥 Веб-тестирование:
+### 🖥 Веб-тестирование:
+![DevTools](https://shields.microej.com/badge/-DevTools-000000?style=for-the-badge&logo=google-chrome&logoColor=5b5b5b)
+![Postman](https://shields.microej.com/badge/-Postman-000000?style=for-the-badge&logo=Postman&logoColor=ff7100)
+![Swagger](https://shields.microej.com/badge/-Swagger-000000?style=for-the-badge&logo=Swagger&logoColor=81ad20)
 
 📱 Мобильное тестирование:
 
