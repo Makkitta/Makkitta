@@ -16,17 +16,18 @@ Linkedin:
 
 📋 Тест-анализ и документация
 
-### 🖥 Веб-тестирование:
+## 🖥 Веб-тестирование:
 ![DevTools](https://shields.microej.com/badge/-DevTools-000000?style=for-the-badge&logo=google-chrome&logoColor=5b5b5b)
 ![Postman](https://shields.microej.com/badge/-Postman-000000?style=for-the-badge&logo=Postman&logoColor=ff7100)
 ![Swagger](https://shields.microej.com/badge/-Swagger-000000?style=for-the-badge&logo=Swagger&logoColor=81ad20)
 
-### 📱 Мобильное тестирование:
+## 📱 Мобильное тестирование:
 ![Android Studio](https://shields.microej.com/badge/-Android_Studio-000000?style=for-the-badge&logo=Android&logoColor=81ad20)
 ![Xcode](https://shields.microej.com/badge/-Xcode-000000?style=for-the-badge&logo=Xcode&logoColor=0096ff)
 
-
-💾 Работа с данными:
+## 💾 Работа с данными:
+![MySQL](https://shields.microej.com/badge/-MySQL-000000?style=for-the-badge&logo=MySQL&logoColor=0096ff)
+![PostgreSQL](https://shields.microej.com/badge/-Postgre_SQL-000000?style=for-the-badge&logo=PostgreSQL&logoColor=45a1d0)
 
 🏆 Ключевые проекты
 
