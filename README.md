@@ -1,16 +1,17 @@
-## Hi there 👋
+Header
 
-<!--
-**Makkitta/Makkitta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 Обо мне:
 
-Here are some ideas to get you started:
+👀 Социальные сети:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📋 Тест-анализ и документация
+
+🖥 Веб-тестирование:
+
+📱 Мобильное тестирование:
+
+💾 Работа с данными:
+
+🏆 Ключевые проекты
+
+📚 Образование и сертификаты
