@@ -1,4 +1,4 @@
-Header
+[![Header](https://github.com/Makkitta/Makkitta/blob/main/assets/Frame.JPEG)](https://t.me/makita_QA)
 
 👩‍💻 Обо мне:
 
