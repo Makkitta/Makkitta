@@ -34,7 +34,8 @@ Linkedin:
 ![MySQL](https://shields.microej.com/badge/-MySQL-000000?style=for-the-badge&logo=MySQL&logoColor=0096ff)
 ![PostgreSQL](https://shields.microej.com/badge/-Postgre_SQL-000000?style=for-the-badge&logo=PostgreSQL&logoColor=45a1d0)
 
-🏆 Ключевые проекты
+## 🏆 Ключевые проекты
+- ![СКАН](https://shields.microej.com/badge/-API-000000?style=flat-square&)   [Тестирование API проект "СКАН-интерфакс"](https://github.com/Makkitta/Makkitta/tree/main/Skan-interfax-tests)
 
 ## 📚 Образование и сертификаты
 
