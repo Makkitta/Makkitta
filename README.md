@@ -48,3 +48,5 @@ Linkedin:
 
 ![Certificate](https://shields.microej.com/badge/-Stepik-000000?style=flat-square&) (In progress)
 
+⚠️ Примечание: Все проекты выполнены в учебных целях.
+Данные для тестовых окружений скрыты в соответствии с NDA.
