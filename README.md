@@ -36,4 +36,8 @@ Linkedin:
 
 🏆 Ключевые проекты
 
-📚 Образование и сертификаты
+## 📚 Образование и сертификаты
+
+### Курсы:
+![2024](https://shields.microej.com/badge/-2024-000000?style=flat-square&)   [Тестирование ПО с нуля. Теория + Практика](https://stepik.org/course/171826/syllabus) (Stepik)
+![2024](https://shields.microej.com/badge/-2024-000000?style=flat-square&) [Тестировщик-автоматизатор на Python](https://skillfactory.ru/qa-engineer-python-testirovshchik-programmnogo-obespecheniya) (Skillfactory)
