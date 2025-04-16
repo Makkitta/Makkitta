@@ -6,11 +6,11 @@
 
 2. Заказчик от вас ожидает следующие артефакты тестирования:
 
-- Чек-лист,
+- [Чек-лист](https://github.com/Makkitta/Makkitta/blob/main/dom-pitomca-tests/documentation/%D0%A1%D0%B0%D0%B9%D1%82%20_%D0%94%D0%BE%D0%BC%20%D0%BF%D0%B8%D1%82%D0%BE%D0%BC%D1%86%D0%B0_%20-%20%D0%A7%D0%B5%D0%BA-%D0%BB%D0%B8%D1%81%D1%82.csv),
 
-- Тест-кейсы,
+- [Тест-кейсы](https://github.com/Makkitta/Makkitta/blob/main/dom-pitomca-tests/documentation/%D0%A1%D0%B0%D0%B9%D1%82%20_%D0%94%D0%BE%D0%BC%20%D0%BF%D0%B8%D1%82%D0%BE%D0%BC%D1%86%D0%B0_%20-%20%D0%A2%D0%B5%D1%81%D1%82-%D0%BA%D0%B5%D0%B9%D1%81%D1%8B.csv),
 
-- Список багов.
+- [Список багов](https://github.com/Makkitta/Makkitta/blob/main/dom-pitomca-tests/documentation/%D0%A1%D0%B0%D0%B9%D1%82%20_%D0%94%D0%BE%D0%BC%20%D0%BF%D0%B8%D1%82%D0%BE%D0%BC%D1%86%D0%B0_%20-%20%D0%91%D0%B0%D0%B3%D0%B8.csv).
 
 3. Тест-кейсы, чек-лист и баги должны быть оформлены по внутренним стандартам заказчика.
 
