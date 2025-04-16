@@ -22,7 +22,10 @@ Linkedin:
 | ✅Составление баг-репортов  | Jira, YouTrack, Redmine              | [Пример бага](https://docs.google.com/document/d/17uHe1YmQGPVyzLLiEXgIxRe_w03_BbPQc_KfGiDzJUo/edit?usp=sharing)   
 
 #### User Story Mapping   
-![MAP](https://github.com/Makkitta/Makkitta/blob/main/assets_map/User%20Story%20Mapping.jpg)   |
+
+- User Story для мобильного приложения ЯндексGO
+
+![MAP](https://github.com/Makkitta/Makkitta/blob/main/assets_map/User%20Story%20Mapping.jpg)
 
 ## 🖥 Веб-тестирование:
 ![DevTools](https://shields.microej.com/badge/-DevTools-000000?style=for-the-badge&logo=google-chrome&logoColor=5b5b5b)
@@ -50,9 +53,9 @@ Linkedin:
 ![2024](https://shields.microej.com/badge/-2024-000000?style=flat-square&) [Тестировщик-автоматизатор на Python](https://skillfactory.ru/qa-engineer-python-testirovshchik-programmnogo-obespecheniya) (Skillfactory)
 
 ### Сертификаты:
-[![Certificate](https://shields.microej.com/badge/-Manual_testing_engineer-000000?style=flat-square&)](https://drive.google.com/drive/folders/1YhOY0CO_Om8Z32zOWchINTTnSb3bIWKv?usp=sharing) ✅
+[![Certificate](https://shields.microej.com/badge/-Manual_testing_engineer-000000?style=for-the-badge)]()
 
-![Certificate](https://shields.microej.com/badge/-Stepik-000000?style=flat-square&) (In progress)
+![Certificate](https://shields.microej.com/badge/-Stepik-000000?style=for-the-badge) (In progress)
 
 ⚠️ Примечание: Все проекты выполнены в учебных целях.
 Данные для тестовых окружений скрыты в соответствии с NDA.
