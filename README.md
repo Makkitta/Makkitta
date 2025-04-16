@@ -46,7 +46,7 @@ Linkedin:
 
 - ![Дом_питомца](https://shields.microej.com/badge/-Artifacts-000000?style=flat-square&) [Тестирование сайта Дом Питомца](https://github.com/Makkitta/Makkitta/tree/main/dom-pitomca-tests)
 
-- ![МУРКОФЕ](https://shields.microej.com/badge/-Artifacts-000000?style=flat-square&) [Тестирование сайта кофейни МУРКОФЕ]()
+- ![МУРКОФЕ](https://shields.microej.com/badge/-Artifacts-000000?style=flat-square&) [Тестирование сайта кофейни МУРКОФЕ](https://github.com/Makkitta/Makkitta/tree/main/myrcoffe-tests)
 
 
 ## 📚 Образование и сертификаты
