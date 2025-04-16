@@ -22,7 +22,7 @@ Linkedin:
 | ✅Составление баг-репортов  | Jira, YouTrack, Redmine              | [Пример бага](https://docs.google.com/document/d/17uHe1YmQGPVyzLLiEXgIxRe_w03_BbPQc_KfGiDzJUo/edit?usp=sharing)   
 
 #### User Story Mapping   
-![MAP]()   |
+![MAP](https://github.com/Makkitta/Makkitta/blob/main/assets_map/User%20Story%20Mapping.jpg)   |
 
 ## 🖥 Веб-тестирование:
 ![DevTools](https://shields.microej.com/badge/-DevTools-000000?style=for-the-badge&logo=google-chrome&logoColor=5b5b5b)
