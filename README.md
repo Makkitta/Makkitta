@@ -37,6 +37,8 @@ Linkedin:
 ## 🏆 Ключевые проекты
 - ![СКАН](https://shields.microej.com/badge/-API-000000?style=flat-square&)   [Тестирование API проект "СКАН-интерфакс"](https://github.com/Makkitta/Makkitta/tree/main/Skan-interfax-tests)
 
+- ![Дом_питомца](https://shields.microej.com/badge/-Artifacts-000000?style=flat-square&) [Тестирование сайта Дом Питомца](https://github.com/Makkitta/Makkitta/tree/main/dom-pitomca-tests)
+
 ## 📚 Образование и сертификаты
 
 ### Курсы:
