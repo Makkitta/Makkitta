@@ -21,6 +21,7 @@ Linkedin:
 | ✅Написание тест-кейсов     |    Excel,  Sitechco                | [Тест-кейсы сайта кофейни](https://docs.google.com/spreadsheets/d/1DQZUFbuZb7MKMuM3zhn4fUOyjhNoR8SjCwTwyDWpojE/edit?usp=sharing)             |
 | ✅Составление баг-репортов  | Jira, YouTrack, Redmine              | [Пример бага](https://docs.google.com/document/d/17uHe1YmQGPVyzLLiEXgIxRe_w03_BbPQc_KfGiDzJUo/edit?usp=sharing)   
 
+
 #### User Story Mapping   
 
 - User Story для мобильного приложения ЯндексGO
@@ -45,6 +46,9 @@ Linkedin:
 
 - ![Дом_питомца](https://shields.microej.com/badge/-Artifacts-000000?style=flat-square&) [Тестирование сайта Дом Питомца](https://github.com/Makkitta/Makkitta/tree/main/dom-pitomca-tests)
 
+- ![МУРКОФЕ](https://shields.microej.com/badge/-Artifacts-000000?style=flat-square&) [Тестирование сайта кофейни МУРКОФЕ]()
+
+
 ## 📚 Образование и сертификаты
 
 ### Курсы:
@@ -53,7 +57,7 @@ Linkedin:
 ![2024](https://shields.microej.com/badge/-2024-000000?style=flat-square&) [Тестировщик-автоматизатор на Python](https://skillfactory.ru/qa-engineer-python-testirovshchik-programmnogo-obespecheniya) (Skillfactory)
 
 ### Сертификаты:
-[![Certificate](https://shields.microej.com/badge/-Manual_testing_engineer-000000?style=for-the-badge)]()
+[![Certificate](https://shields.microej.com/badge/-Manual_testing_engineer-000000?style=for-the-badge)](https://github.com/Makkitta/Makkitta/blob/main/assets/certificate/Fen%20Aleksandra_page-0001.jpg)
 
 ![Certificate](https://shields.microej.com/badge/-Stepik-000000?style=for-the-badge) (In progress)
 
