@@ -17,9 +17,9 @@ Linkedin:
 ## 📋 Тест-анализ и документация
 | **Навык**                     | **Инструменты**                          | **Примеры артефактов**                  |
 |---------------------------|--------------------------------------|--------------------------------------|
-| ✅Составление чек-листов    | Excel,  Sitechco        | [Чек-лист для приложения "Леонардо"](https://drive.google.com/drive/folders/12j2p3GpIYnKEmEXIlJIouhQBD7oTNINh?usp=sharing) |
-| ✅Написание тест-кейсов     |    Excel,  Sitechco                | [Тест-кейсы сайта кофейни](https://docs.google.com/spreadsheets/d/1DQZUFbuZb7MKMuM3zhn4fUOyjhNoR8SjCwTwyDWpojE/edit?usp=sharing)             |
-| ✅Составление баг-репортов  | Jira, YouTrack, Redmine              | [Пример бага](https://docs.google.com/document/d/17uHe1YmQGPVyzLLiEXgIxRe_w03_BbPQc_KfGiDzJUo/edit?usp=sharing)   
+| ✅Составление чек-листов    | Excel,  Sitechco        | [Чек-лист для приложения "Леонардо"](https://github.com/Makkitta/Makkitta/blob/main/assets/checklistLeonardo/%D0%A7%D0%B5%D0%BA-%D0%BB%D0%B8%D1%81%D1%82%20_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B0%D1%80%D0%B4%D0%BE_%20-%20Checklist.csv) |
+| ✅Написание тест-кейсов     |    Excel,  Sitechco                | [Тест-кейсы сайта кофейни](https://github.com/Makkitta/Makkitta/blob/main/assets/testcaseMYRCOFFEE/%D0%A2%D0%B5%D1%81%D1%82-%D0%9A%D0%B5%D0%B9%D1%81%D1%8B%20%D0%9C%D0%A3%D0%A0%D0%9A%D0%9E%D0%A4%D0%95%20-%20%D0%9B%D0%B8%D1%81%D1%821%20(1).csv)             |
+| ✅Составление баг-репортов  | Jira, YouTrack, Redmine              | [Пример бага](https://github.com/Makkitta/Makkitta/blob/main/assets/bugs/%D0%A7%D0%B5%D0%BA-%D0%BB%D0%B8%D1%81%D1%82%20_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B0%D1%80%D0%B4%D0%BE_%20-%20Bugs.csv)   
 
 
 #### User Story Mapping   
