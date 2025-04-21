@@ -10,9 +10,8 @@ Email: fenaleksandra@gmail.com
 
 Telegram: [@makita_QA](https://t.me/makita_QA)
 
-Резюме: 
+Резюме: [hh.ru]() | [JPG](https://github.com/Makkitta/Makkitta/blob/main/assets/portfolio/%D0%9F%D0%BE%D1%80%D1%82%D1%84%D0%BE%D0%BB%D0%B8%D0%BE.jpg)
 
-Linkedin: 
 
 
 ## 📋 Тест-анализ и документация
