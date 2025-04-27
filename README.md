@@ -40,7 +40,6 @@ Telegram: [@makita_QA](https://t.me/makita_QA)
 ## 💾 Работа с данными:
 ![MySQL](https://shields.microej.com/badge/-MySQL-000000?style=for-the-badge&logo=MySQL&logoColor=0096ff)
 ![PostgreSQL](https://shields.microej.com/badge/-Postgre_SQL-000000?style=for-the-badge&logo=PostgreSQL&logoColor=45a1d0)
-
 ![TablePlus](https://shields.microej.com/badge/-TablePlus-000000?style=for-the-badge&logo=PostgreSQL&logoColor=yellow)
 
 ## 🏆 Ключевые проекты
